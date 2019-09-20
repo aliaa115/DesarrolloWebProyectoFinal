@@ -1,0 +1,17 @@
+body{
+    font-family: fantasy;
+    font-size: 150%;
+}
+header{
+    background: lightgreen;
+}
+
+.color1{
+    background: #34495e;
+    color:#fff;
+}
+
+.color2{
+    background: black;
+    color: white;
+}
