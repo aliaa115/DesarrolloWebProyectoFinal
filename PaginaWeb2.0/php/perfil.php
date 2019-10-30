@@ -1,0 +1,9 @@
+<?php
+    include('../html/header.html');
+?>
+<?php
+    include('../html/profile.html');
+?>
+<?php
+    include('../html/footer.html');
+?>
