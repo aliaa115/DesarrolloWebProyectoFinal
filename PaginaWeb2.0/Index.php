@@ -1,5 +1,6 @@
+
 <?php
-    include('html/header.html');
+    include('html/header_inicio.html');
 ?>
 <?php
     include('html/inicio.html');
